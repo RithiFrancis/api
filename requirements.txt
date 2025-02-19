@@ -1,0 +1,9 @@
+fastapi 
+uvicorn
+starlette
+sqlalchemy
+numpy
+pydantic
+tensorflow
+typing
+datetime
